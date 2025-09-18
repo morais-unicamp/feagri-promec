@@ -1,2 +1,2 @@
 # feagri-promec
-Armazena base de dados utilizadas no laboratório de propriedades mecânicas dos materiais biológicos.
+Armazena base de dados utilizadas no PROMEC - Laboratório de Propriedades Mecânicas dos Materiais Biológicos.
